@@ -82,11 +82,8 @@ This dashboard provides business insights into mobile sales using interactive vi
 
 ### Main Dashboard
 
-(Add Dashboard.png here)
+<img width="1281" height="721" alt="Mobile sales Deshboard" src="https://github.com/user-attachments/assets/d11a6568-753a-43c0-8a4c-9fd4f4d2737a" />
 
-### Filtered Dashboard
-
-(Add Dashboard_Filtered.png here)
 
 ---
 
